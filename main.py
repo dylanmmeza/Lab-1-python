@@ -12,7 +12,7 @@ elif sign == 'C'or sign == 'c' :
   print(f"{temp}\N{degree sign} in Celsius is equivalent to {fahrenheit }\N{degree sign} Fahrenheit.")
 
 else :
-   print(f"Invalid unit({sign}).")
+   print(f"Invalid unit({sign}).") 
 
 
 
