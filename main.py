@@ -3,7 +3,6 @@
 # Collaborator: Adnan Traore aqt5519@psu.edu
 # Collaborator: Sydney Wetzel skw5571@psu.edu
 
-
 temp = input("Enter temperature: ")
 sign = input("Enter unit in F/f or C/c: ")
 temp = float (temp)
